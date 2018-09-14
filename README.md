@@ -14,10 +14,10 @@ El banco más importante del país lanzo una nueva aplicación móvil al mercado
 
 Nuestros objetivo iniciales del proyecto son:
 
- -Definir la dirección y evolución del producto.
- -Validar los usuarios actuales.
- -Analizar la efectividad de la publicidad.
- -Mejorar el flujo del usuario
+ * Definir la dirección y evolución del producto.
+ * Validar los usuarios actuales.
+ * Analizar la efectividad de la publicidad.
+ * Mejorar el flujo del usuario
 
 ### Entendimiento del Problema
 
@@ -52,13 +52,15 @@ Para conocer al mundo en el que nos sumergiríamos era necesario este proceso. C
 
 ![benchmark](https://user-images.githubusercontent.com/34355830/45555511-97bb2280-b7fe-11e8-8461-65005cb05584.jpg)
 
+[Link al benchmark](https://docs.google.com/spreadsheets/d/1zwZyGqWbuhTZErZ3s-XDaEDYCVr3108_akK8V5xMznQ/edit?usp=sharing "Benchmark")
+
 ### Entrevista al Cliente
 
 Se concretó una primera reunión con la product manager, dónde nos dio a conocer la información que le cedió el departamento de marketing, en ella tocamos diversos puntos claves, a continuación, la guía de entrevista:
 
 ![cliente](https://user-images.githubusercontent.com/34355830/45555867-8de5ef00-b7ff-11e8-878a-af1baafd04fc.png)
 
-[Mas detalles de la entrevista del cliente, aquí.](https://docs.google.com/document/d/1P_GT1OeE4UeOseKpgKcF87IGUVwgbzyMFNO_wUheujQ/edit?usp=sharing "Entrevista Cliente")
+[Detalles de la entrevista del cliente](https://docs.google.com/document/d/1P_GT1OeE4UeOseKpgKcF87IGUVwgbzyMFNO_wUheujQ/edit?usp=sharing "Entrevista Cliente")
 
 ### Entrevista al Usuario
 
@@ -66,23 +68,14 @@ Para esta investigación entrevistaremos a 5 usuarios. A través de una guía de
 
 ![usuario](https://user-images.githubusercontent.com/34355830/45556393-bfab8580-b800-11e8-94d5-afa5f82c0a3f.jpg)
 
-[Mas detalles de la entrevista del usuario, aquí.](https://docs.google.com/document/d/1VO0E5NwUwTpMN-n_xWynZgfIk50cl5WSym-a_YU75nc/edit?usp=sharing "Entrevista Usuario")
+[Detalles de la entrevista del usuario](https://docs.google.com/document/d/1VO0E5NwUwTpMN-n_xWynZgfIk50cl5WSym-a_YU75nc/edit?usp=sharing "Entrevista Usuario")
 
 ## OTRAS CONSIDERACIONES
 
 ### Planeamiento
 
-[Ingresa al Trello, aquí.](https://docs.google.com/document/d/1VO0E5NwUwTpMN-n_xWynZgfIk50cl5WSym-a_YU75nc/edit?usp=sharing "Trello")
+[Link a Trello](https://docs.google.com/document/d/1VO0E5NwUwTpMN-n_xWynZgfIk50cl5WSym-a_YU75nc/edit?usp=sharing "Trello")
 
 ### Presupuesto
 
-| Actividad | Justificacion | Puntaje |
-|:---|:---:|
-|Entendimiento del problema, la industria y el contexto.  |Para comenzar la investigación ordenamos por jerarquía las actividades a realizar, analizamos la data y con esto entendimos que el primer paso era reunirnos con el cliente.| 15pts. |
-|Entrevista con cliente|Necesitamos entender las dudas que nos genero el entendimiento del problema y el analisis de la data.| 25pts. |
-|Benchmark| Una vez mapeado todo el contexto procederemos a analizar la competencia a nivel nacional e internacional.| 20pts. |
-|Inventario del contenido| Permitirá ordenar el contenido actual y ver de forma esquemática la información que le mostraremos al usuario.| 15pts. |
-|Entrevistas con usuarios| Validar los user person de acuerdo al contexto que nos da el PM, y sintetizar informacion que nos permita generar una nueva solucion. | 60pts. |
-|Testeos de prototipos y flujos actuales| Testear todo el contenido dado por el PM para entender cuales son los puntos de quiebre y porque no se esta realizando la conversion de manera adecuada, asi como tambien validar los user flows dados. | 60pts.|
-|Prototipado de alta fidelidad| Generar una nueva solucion de acuerdo a la info obtenida en los pasos anteriores. | 80pts. |
-|Testeos de prototipos solución| Testear la propuesta de solucion con los cambios realizados. | 60pts. |
+[Link al Presupuesto](https://docs.google.com/spreadsheets/d/1wRKZuqTdCYLMHUlQ3_WN6d2lpEjAVFFj1cdaygyvR4Y/edit?usp=sharing "Presupuesto")
