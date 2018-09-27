@@ -33,16 +33,16 @@ Para comenzar, decidimos concretar una reunión con la product manager del banco
 
 * La aplicación solo esta segmentada para un público objetivo que tienen dispositivos iOS.
 * No está claro que es una app de ahorro perteneciente al banco.
-* Facebook ADS no ofrece mucha información sobr la app o el S.O.
-* La app solo es utilizada por cuentas de clientes y no por público en general, pero en ningun momento la LP les da esa información.
+* Facebook ADS no ofrece mucha información sobr la app o el S.O y la inversión por este medio no está dando resultados.
+* Se pierden muchos usuarios por medio del Landing Page ya que no ofrece mucha información de la aplicación.
 
 #### Problemas Nivel Usuario
 
-* Los usuarios gastan más de lo que ahorran.
-* Algunos usarios no planifican sus ahorros.
-* La mayoría de usuarios visitan la Landing Page desde dispositivos con S.O. Android.
+* La aplicación no presenta las funcionalidades que el usuario busca.
+* Algunos usarios no planifican sus ahorros, por eso, esperan ser incentivado o motivado mediante sugerencias.
+* La mayoría de usuarios visitan la Landing Page desde dispositivos con S.O. Android y no pueden utilizar la aplicación.
 * Para los usuarios, es confuso el hecho que el botón de descarga les dirija hacia un formulario en el que tenían que dejar sus datos para que luego le llegue un mensaje con redirección hacia la appstore.
-* Descargan aplicaciones por recomendación de amigos o familiares.
+* El flujo de la app es confuso para los usuarios, ya que se perdían al momento de elegir las opciones del menú.
 
 ### Análisis de la Data
 
