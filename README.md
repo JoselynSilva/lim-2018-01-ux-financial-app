@@ -10,7 +10,7 @@ El banco más importante del país lanzo una nueva aplicación móvil al mercado
 Con los datos y recursos dados por el Product Manager, el proceso de rediseño que tendrá la aplicacion se basa en las siguientes etapas:
 ![Proceso UX](https://user-images.githubusercontent.com/34355830/46121686-8862ae80-c1da-11e8-8f86-2f6b7560f8fa.png)
 
-## DESCUBRIMIENTO
+## DESCUBRIMIENTO E INVESTIGACIÓN
 
 ### Objetivo Inicial del Proyecto
 
@@ -29,20 +29,6 @@ Para conocer el problema de la aplicación Tus Finanzas nos dieron acceso a la d
 
 Para comenzar, decidimos concretar una reunión con la product manager del banco, Gabriela, para conocer un poco más el estado y las proyecciones que tienen sobre su aplicación.
 
-## Sintesís
-
-* **Objetivo Principal**
-
-Fomentar el ahorro en los jóvenes para que puedan cubrir sus gastos básicos, ahorrar para viviendas, viajes, etc.
-
-* **Sistema Operativo**
-
-Crearon la aplicación solo para iOS, según el estudio de su investigacion concluyeron que los dispositivos Iphone son más seguros, quizás mas usados con los jóvenes.
-
-* **Medios de comunicación**
-
-Se utilizó Facebook ADS con un call-to-action a su Landing Page (LP) donde se podía ingresar a la APP Store y finalmente decargar la APP.
-
 #### Problemas Nivel Negocio
 
 #### Problemas Nivel Usuario
@@ -52,32 +38,12 @@ Se utilizó Facebook ADS con un call-to-action a su Landing Page (LP) donde se p
 El Product Manager nos proporcionó data con estadísticas del tráfico de su APP, obteniendo las siguientes observaciones:
 
 * Solo un promedio de *2,39%* de las impresiones en Facebook se dirigen al **Landing Page**.
-
 * No hay **relación efectiva (incremento)** entre el aumento de impresiones y la cantidad de visitas a la LP.
-
 * Aún cuando aumentan las visitas a la LP **no hay aumento proporcional de visitas a la APP Store** en el tiempo.
-
 * Sólo un *11%* en promedio de quienes visitan la App Store, **instalan la app**.
-
 * Hay un **leve incremento en el último trimestre** , que no parece significativo.
-
 * De los usuarios que descargan la aplicación, *sólo un 10%* en promedio **se registra**, aún cuando las impresiones aumentan.
-
 * Aún cuando hay varios picos de impresiones, **no existe un aumento proporcional de descargas en la app store**.
-
-### Hipótesis
-
-Con el entendimiento del Problema (Negocio y Usuario) y el análisis de la Data, llegamos a las siguientes hipótesis:
-
-* **No segmentar correctamente al público objetivo** se traduce en menos visitas a la LP y, por ende a menos conversiones.
-
-* **La LP no está correctamente optimizada** para dispositivos móviles y eso podría estar causando una mala experiencia de usuario y afectando el funnel de conversiones.
-
-* La LP no indica si es para iOS o Android y no  muestra suficiente información de valor para el usuario y podría no estar generando suficiente **confianza y seguridad**.
-
-* Crear una app para Android OS aumentaría exponencialmente las conversiones, tomando en cuenta que en la LP **la mayoría de usuarios usaban Android OS**.
-
-## PROCESO DE INVESTIGACIÓN
 
 ### Benchmark
 
@@ -103,6 +69,28 @@ Para esta investigación entrevistaremos a 5 usuarios. A través de una guía de
 ![usuario](https://user-images.githubusercontent.com/34355830/45556393-bfab8580-b800-11e8-94d5-afa5f82c0a3f.jpg)
 
 [Detalles de la entrevista del usuario](https://docs.google.com/document/d/1VO0E5NwUwTpMN-n_xWynZgfIk50cl5WSym-a_YU75nc/edit?usp=sharing "Entrevista Usuario")
+
+## SÍNTESIS Y DEFINICION
+
+## Sintesís
+
+* **Objetivo Principal**
+Fomentar el ahorro en los jóvenes para que puedan cubrir sus gastos básicos, ahorrar para viviendas, viajes, etc.
+
+* **Sistema Operativo**
+Crearon la aplicación solo para iOS, según el estudio de su investigacion concluyeron que los dispositivos Iphone son más seguros, quizás mas usados con los jóvenes.
+
+* **Medios de comunicación**
+Se utilizó Facebook ADS con un call-to-action a su Landing Page (LP) donde se podía ingresar a la APP Store y finalmente decargar la APP.
+
+### Hipótesis
+
+Con el entendimiento del Problema (Negocio y Usuario) y el análisis de la Data, llegamos a las siguientes hipótesis:
+
+* **No segmentar correctamente al público objetivo** se traduce en menos visitas a la LP y, por ende a menos conversiones.
+* **La LP no está correctamente optimizada** para dispositivos móviles y eso podría estar causando una mala experiencia de usuario y afectando el funnel de conversiones.
+* **La LP no indica si es para iOS o Android** y no  muestra suficiente información de valor para el usuario y podría no estar generando suficiente **confianza y seguridad**.
+* Crear una app para Android OS aumentaría exponencialmente las conversiones, tomando en cuenta que en la LP **la mayoría de usuarios usaban Android OS**.
 
 ## IDEACION
 
