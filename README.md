@@ -1,4 +1,4 @@
-# APP TUS FINANZAS
+# ✨ APP TUS FINANZAS 💳 ✨
 
 ## PREÁMBULO
 
@@ -38,6 +38,10 @@ Crearon la aplicación solo para iOS, según el estudio de su investigacion conc
 * **Medios de comunicación**
 
 Las redes sociales que utilizaron para dar a conocer la APP fue a través de Facebook Ads en su fan page y este conectaba a su Landing Page, que su objetivo era que descargaran la aplicación.
+
+#### Problemas Nivel Negocio
+
+#### Problemas Nivel Usuario
 
 ### Hipótesis
 
