@@ -49,7 +49,7 @@ Las redes sociales que utilizaron para dar a conocer la APP fue a través de Fac
 
 Crear la necesidad de utilizar una app de finanzas, mediante una buena propuesta que llame la atención al público objetivo añadiendo más funcionalidades y que sea otro tipo de SO.: Android.
 
-## RESEARCH: PROCESO DE INVESTIGACIÓN
+## PROCESO DE INVESTIGACIÓN
 
 ### Benchmark
 
@@ -75,6 +75,12 @@ Para esta investigación entrevistaremos a 5 usuarios. A través de una guía de
 ![usuario](https://user-images.githubusercontent.com/34355830/45556393-bfab8580-b800-11e8-94d5-afa5f82c0a3f.jpg)
 
 [Detalles de la entrevista del usuario](https://docs.google.com/document/d/1VO0E5NwUwTpMN-n_xWynZgfIk50cl5WSym-a_YU75nc/edit?usp=sharing "Entrevista Usuario")
+
+## IDEACION
+
+## PROTOTIPADO
+
+## TESTING
 
 ## RECOMENDACIONES
 
