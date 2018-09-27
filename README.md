@@ -45,6 +45,11 @@ El Product Manager nos proporcionó data con estadísticas del tráfico de su AP
 * De los usuarios que descargan la aplicación, *sólo un 10%* en promedio **se registra**, aún cuando las impresiones aumentan.
 * Aún cuando hay varios picos de impresiones, **no existe un aumento proporcional de descargas en la app store**.
 
+[Link al Análisis de la Data](https://docs.google.com/presentation/d/1MCNlTuj8TwLwS0Shw5MFGcZOVUkLvY9DOv_7WAHkPsM/edit?usp=sharing "Data")
+
+![Funnel](https://user-images.githubusercontent.com/34355830/46122959-5bfe6080-c1e1-11e8-9793-393a966d0fb7.png)
+
+
 ### Benchmark
 
 Se realizó un estudio de las aplicaciones bancarias (páginas o app directas de los bancos)  analizamos que la propuesta que tienen los bancos radica en que los clientes puedan ver sus ingresos, transacciones y últimos movimientos, algunas de éstas aplicaciones presentan un sistema de notificacion en el momento que se realizan depósitos a las cuentas.
@@ -53,6 +58,10 @@ Para conocer al mundo en el que nos sumergiríamos era necesario este proceso. C
 ![benchmark](https://user-images.githubusercontent.com/34355830/45555511-97bb2280-b7fe-11e8-8461-65005cb05584.jpg)
 
 [Link al benchmark](https://docs.google.com/spreadsheets/d/1zwZyGqWbuhTZErZ3s-XDaEDYCVr3108_akK8V5xMznQ/edit?usp=sharing "Benchmark")
+
+### Inventario del Contenido
+
+Se analizó el flujo de la aplicacion y se obtuvo el siguiente contenido
 
 ### Entrevista al Cliente
 
@@ -75,12 +84,15 @@ Para esta investigación entrevistaremos a 5 usuarios. A través de una guía de
 ## Sintesís
 
 * **Objetivo Principal**
+
 Fomentar el ahorro en los jóvenes para que puedan cubrir sus gastos básicos, ahorrar para viviendas, viajes, etc.
 
 * **Sistema Operativo**
+
 Crearon la aplicación solo para iOS, según el estudio de su investigacion concluyeron que los dispositivos Iphone son más seguros, quizás mas usados con los jóvenes.
 
 * **Medios de comunicación**
+
 Se utilizó Facebook ADS con un call-to-action a su Landing Page (LP) donde se podía ingresar a la APP Store y finalmente decargar la APP.
 
 ### Hipótesis
@@ -98,7 +110,17 @@ Crear una app de finanzas, mediante una buena propuesta que llame la atención a
 
 ## PROTOTIPADO
 
+### Sketch
+
+[Link al Prototipo de Sketch](https://docs.google.com/spreadsheets/d/1wRKZuqTdCYLMHUlQ3_WN6d2lpEjAVFFj1cdaygyvR4Y/edit?usp=sharing "Prototipo Alta Fidelidad")
+
+### Prototipo Alta Fidelidad
+
+[Link al Prototipo de Alta Fidelidad](https://docs.google.com/spreadsheets/d/1wRKZuqTdCYLMHUlQ3_WN6d2lpEjAVFFj1cdaygyvR4Y/edit?usp=sharing "Prototipo Alta Fidelidad")
+
 ## TESTING
+
+### Conclusiones del Testing
 
 ## RECOMENDACIONES
 
@@ -110,9 +132,11 @@ Crear una app de finanzas, mediante una buena propuesta que llame la atención a
 
 ## OTRAS CONSIDERACIONES
 
-### Planeamiento
+### Planeamiento (Trello)
 
-[Link a Trello](https://docs.google.com/document/d/1VO0E5NwUwTpMN-n_xWynZgfIk50cl5WSym-a_YU75nc/edit?usp=sharing "Trello")
+![Trello](https://user-images.githubusercontent.com/34355830/46123287-22c6f000-c1e3-11e8-8f0c-0c656804b85c.png)
+
+[Link a Trello](https://trello.com/b/8XR9plPy/planificacion-proyecto "Trello")
 
 ### Presupuesto
 
