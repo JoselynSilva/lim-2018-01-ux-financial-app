@@ -20,6 +20,8 @@ Nuestros objetivo iniciales del proyecto son:
  * Validar los usuarios actuales.
  * Analizar la efectividad de la publicidad.
  * Mejorar el flujo del usuario
+ * Administracion de dinero para los usuarios
+ * Convertir las descargas de la app en + ingresos
 
 ### Entendimiento del Problema
 
@@ -27,27 +29,53 @@ Para conocer el problema de la aplicación Tus Finanzas nos dieron acceso a la d
 
 Para comenzar, decidimos concretar una reunión con la product manager del banco, Gabriela, para conocer un poco más el estado y las proyecciones que tienen sobre su aplicación.
 
-Gabriela nos comentó lo siguiente:
+## Sintesís
 
 * **Objetivo Principal**
 
-Fomentar el ahorro en los jóvenes, para que puedan  subsisistir, ahorrar para viviendas, viajes, etc.
+Fomentar el ahorro en los jóvenes para que puedan cubrir sus gastos básicos, ahorrar para viviendas, viajes, etc.
 
 * **Sistema Operativo**
 
-Crearon la aplicación solo para iOS, según el estudio de su investigacion concluyeron que los dispositivos Iphone son más seguros, quizás mas usados con los jóvenes, y lo usan personas de más alto rango monetario.
+Crearon la aplicación solo para iOS, según el estudio de su investigacion concluyeron que los dispositivos Iphone son más seguros, quizás mas usados con los jóvenes.
 
 * **Medios de comunicación**
 
-Las redes sociales que utilizaron para dar a conocer la APP fue a través de Facebook Ads en su fan page y este conectaba a su Landing Page, que su objetivo era que descargaran la aplicación.
+Se utilizó Facebook ADS con un call-to-action a su Landing Page (LP) donde se podía ingresar a la APP Store y finalmente decargar la APP.
 
 #### Problemas Nivel Negocio
 
 #### Problemas Nivel Usuario
 
+### Análisis de la Data
+
+El Product Manager nos proporcionó data con estadísticas del tráfico de su APP, obteniendo las siguientes observaciones:
+
+* Solo un promedio de *2,39%* de las impresiones en Facebook se dirigen al **Landing Page**.
+
+* No hay **relación efectiva (incremento)** entre el aumento de impresiones y la cantidad de visitas a la LP.
+
+* Aún cuando aumentan las visitas a la LP **no hay aumento proporcional de visitas a la APP Store** en el tiempo.
+
+* Sólo un *11%* en promedio de quienes visitan la App Store, **instalan la app**.
+
+* Hay un **leve incremento en el último trimestre** , que no parece significativo.
+
+* De los usuarios que descargan la aplicación, *sólo un 10%* en promedio **se registra**, aún cuando las impresiones aumentan.
+
+* Aún cuando hay varios picos de impresiones, **no existe un aumento proporcional de descargas en la app store**.
+
 ### Hipótesis
 
-Crear la necesidad de utilizar una app de finanzas, mediante una buena propuesta que llame la atención al público objetivo añadiendo más funcionalidades y que sea otro tipo de SO.: Android.
+Con el entendimiento del Problema (Negocio y Usuario) y el análisis de la Data, llegamos a las siguientes hipótesis:
+
+* **No segmentar correctamente al público objetivo** se traduce en menos visitas a la LP y, por ende a menos conversiones.
+
+* **La LP no está correctamente optimizada** para dispositivos móviles y eso podría estar causando una mala experiencia de usuario y afectando el funnel de conversiones.
+
+* La LP no indica si es para iOS o Android y no  muestra suficiente información de valor para el usuario y podría no estar generando suficiente **confianza y seguridad**.
+
+* Crear una app para Android OS aumentaría exponencialmente las conversiones, tomando en cuenta que en la LP **la mayoría de usuarios usaban Android OS**.
 
 ## PROCESO DE INVESTIGACIÓN
 
@@ -77,6 +105,8 @@ Para esta investigación entrevistaremos a 5 usuarios. A través de una guía de
 [Detalles de la entrevista del usuario](https://docs.google.com/document/d/1VO0E5NwUwTpMN-n_xWynZgfIk50cl5WSym-a_YU75nc/edit?usp=sharing "Entrevista Usuario")
 
 ## IDEACION
+
+Crear una app de finanzas, mediante una buena propuesta que llame la atención al público objetivo añadiendo más funcionalidades como gráficos interactivos, tips de ahorro y que sea otro tipo de Sistema Operativo.: Android.
 
 ## PROTOTIPADO
 
