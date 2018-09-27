@@ -31,7 +31,18 @@ Para comenzar, decidimos concretar una reunión con la product manager del banco
 
 #### Problemas Nivel Negocio
 
+* La aplicación solo esta segmentada para un público objetivo que tienen dispositivos iOS.
+* No está claro que es una app de ahorro perteneciente al banco.
+* Facebook ADS no ofrece mucha información sobr la app o el S.O.
+* La app solo es utilizada por cuentas de clientes y no por público en general, pero en ningun momento la LP les da esa información.
+
 #### Problemas Nivel Usuario
+
+* Los usuarios gastan más de lo que ahorran.
+* Algunos usarios no planifican sus ahorros.
+* La mayoría de usuarios visitan la Landing Page desde dispositivos con S.O. Android.
+* Para los usuarios, es confuso el hecho que el botón de descarga les dirija hacia un formulario en el que tenían que dejar sus datos para que luego le llegue un mensaje con redirección hacia la appstore.
+* Descargan aplicaciones por recomendación de amigos o familiares.
 
 ### Análisis de la Data
 
@@ -49,10 +60,9 @@ El Product Manager nos proporcionó data con estadísticas del tráfico de su AP
 
 ![Funnel](https://user-images.githubusercontent.com/34355830/46122959-5bfe6080-c1e1-11e8-9793-393a966d0fb7.png)
 
-
 ### Benchmark
 
-Se realizó un estudio de las aplicaciones bancarias (páginas o app directas de los bancos)  analizamos que la propuesta que tienen los bancos radica en que los clientes puedan ver sus ingresos, transacciones y últimos movimientos, algunas de éstas aplicaciones presentan un sistema de notificacion en el momento que se realizan depósitos a las cuentas.
+Se realizó un estudio de las aplicaciones bancarias (páginas o app directas de los bancos analizamos que la propuesta que tienen los bancos radica en que los clientes puedan ver sus ingresos, transacciones y últimos movimientos, algunas de éstas aplicaciones presentan un sistema de notificacion en el momento que se realizan depósitos a las cuentas.
 Para conocer al mundo en el que nos sumergiríamos era necesario este proceso. Conocimos la competencia, y las funcionalidades que las hacen ser ellas, sus puntos fuertes y desventajas.
 
 ![benchmark](https://user-images.githubusercontent.com/34355830/45555511-97bb2280-b7fe-11e8-8461-65005cb05584.jpg)
@@ -61,7 +71,7 @@ Para conocer al mundo en el que nos sumergiríamos era necesario este proceso. C
 
 ### Inventario del Contenido
 
-Se analizó el flujo de la aplicacion y se obtuvo el siguiente contenido
+Se analizó el flujo de la aplicacion actual y se obtuvo el siguiente contenido
 
 ### Entrevista al Cliente
 
@@ -103,6 +113,8 @@ Con el entendimiento del Problema (Negocio y Usuario) y el análisis de la Data,
 * **La LP no está correctamente optimizada** para dispositivos móviles y eso podría estar causando una mala experiencia de usuario y afectando el funnel de conversiones.
 * **La LP no indica si es para iOS o Android** y no  muestra suficiente información de valor para el usuario y podría no estar generando suficiente **confianza y seguridad**.
 * Crear una app para Android OS aumentaría exponencialmente las conversiones, tomando en cuenta que en la LP **la mayoría de usuarios usaban Android OS**.
+
+### User Personas
 
 ## IDEACION
 
