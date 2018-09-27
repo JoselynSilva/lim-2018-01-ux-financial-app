@@ -128,7 +128,10 @@ Crear una app de finanzas, mediante una buena propuesta que llame la atención a
 
 ### Sketch
 
-[Link al Prototipo de Sketch](https://docs.google.com/spreadsheets/d/1wRKZuqTdCYLMHUlQ3_WN6d2lpEjAVFFj1cdaygyvR4Y/edit?usp=sharing "Prototipo Alta Fidelidad")
+![sketch](https://user-images.githubusercontent.com/34355830/46152626-fe94fe80-c236-11e8-8dc7-182518f30370.jpeg)
+
+Para ver el sketch completo, ingresa al siguiente link:
+[Link al Prototipo de Sketch](https://docs.google.com/spreadsheets/d/1wRKZuqTdCYLMHUlQ3_WN6d2lpEjAVFFj1cdaygyvR4Y/edit?usp=sharing "Sketch")
 
 ### Prototipo Alta Fidelidad
 
