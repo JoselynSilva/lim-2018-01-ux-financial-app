@@ -1,14 +1,16 @@
 # ✨ APP TUS FINANZAS 💳 ✨
 
-## PREÁMBULO
-
+## CONTEXTO
 El banco más importante del país ya tiene su banca móvil que le permite a sus usuarios hacer movimientos de dinero con solo unos cuantos click, pero a pesar de la transformación digital que han vivido, su público más joven se está alejando de su uso y se están adentrando en un mundo más tecnológico.
 
 El banco más importante del país lanzo una nueva aplicación móvil al mercado. Esta permite a los usuarios visualizar sus gastos mensuales y ahorros, pero a pesar de la transformación digital que han vivido, su público más joven se está alejando de su uso. Luego del periodo de 6 meses y no 100 % contentos con el resultado, contactaron a nuestro equipo de UX LAB para que los ayudemos a definir la dirección y evolución de este producto.
 
 ![preview app de finanzas](https://lh3.googleusercontent.com/WyfUPurRuoXyyeZScQtdLhk063ZozToVlujoljul3TDwJW5KZy3Om_LvuB-TB9IcG2r_BCSpoXtXL-bZjIeGBFxQmL4GYEM2QXnQovq6EvixYaO_Z5-gFMvljM9jye7bVofendMteBI)
 
-## CONTEXTO
+Con los datos y recursos dados por el Product Manager, el proceso de rediseño que tendrá la aplicacion se basa en las siguientes etapas:
+![Proceso UX](https://user-images.githubusercontent.com/34355830/46121686-8862ae80-c1da-11e8-8f86-2f6b7560f8fa.png)
+
+## DESCUBRIMIENTO
 
 ### Objetivo Inicial del Proyecto
 
@@ -73,6 +75,14 @@ Para esta investigación entrevistaremos a 5 usuarios. A través de una guía de
 ![usuario](https://user-images.githubusercontent.com/34355830/45556393-bfab8580-b800-11e8-94d5-afa5f82c0a3f.jpg)
 
 [Detalles de la entrevista del usuario](https://docs.google.com/document/d/1VO0E5NwUwTpMN-n_xWynZgfIk50cl5WSym-a_YU75nc/edit?usp=sharing "Entrevista Usuario")
+
+## RECOMENDACIONES
+
+* **Modificaciones a realizar**
+
+* **Próximos Desarrollo**
+
+* **Inversión presupuesto de Marketing**
 
 ## OTRAS CONSIDERACIONES
 
