@@ -118,7 +118,7 @@ Con el entendimiento del Problema (Negocio y Usuario) y el análisis de la Data,
 
 ![User Persona Primario](https://user-images.githubusercontent.com/34355830/46150229-b6271200-c231-11e8-9c30-d14844fb0487.png)
 
-![User Persona Secundario](https://user-images.githubusercontent.com/34355830/46150267-cc34d280-c231-11e8-8587-ad043bc8416c.png)
+![User Persona Secundario](https://user-images.githubusercontent.com/34355830/46150869-369a4280-c233-11e8-8acf-eb3f57d6f05d.png)
 
 ## IDEACION
 
