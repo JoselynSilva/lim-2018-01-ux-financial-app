@@ -71,7 +71,9 @@ Para conocer al mundo en el que nos sumergiríamos era necesario este proceso. C
 
 ### Inventario del Contenido
 
-Se analizó el flujo de la aplicacion actual y se obtuvo el siguiente contenido
+Se analizó el flujo de la aplicacion actual y se obtuvo el siguiente contenido:
+
+![Arbol de contenido actual](https://user-images.githubusercontent.com/34355830/46185179-89f5aa80-c29e-11e8-9745-ef765c96c1ff.png)
 
 ### Entrevista al Cliente
 
@@ -131,11 +133,11 @@ Crear una app de finanzas, mediante una buena propuesta que llame la atención a
 ![sketch](https://user-images.githubusercontent.com/34355830/46152626-fe94fe80-c236-11e8-8dc7-182518f30370.jpeg)
 
 Para ver el sketch completo, ingresa al siguiente link:
-[Link al Prototipo de Sketch](https://docs.google.com/spreadsheets/d/1wRKZuqTdCYLMHUlQ3_WN6d2lpEjAVFFj1cdaygyvR4Y/edit?usp=sharing "Sketch")
+[Prototipo en Sketch](https://docs.google.com/spreadsheets/d/1wRKZuqTdCYLMHUlQ3_WN6d2lpEjAVFFj1cdaygyvR4Y/edit?usp=sharing "Sketch")
 
 ### Prototipo Alta Fidelidad
 
-[Link al Prototipo de Alta Fidelidad](https://docs.google.com/spreadsheets/d/1wRKZuqTdCYLMHUlQ3_WN6d2lpEjAVFFj1cdaygyvR4Y/edit?usp=sharing "Prototipo Alta Fidelidad")
+[Prototipo de Alta Fidelidad](https://docs.google.com/spreadsheets/d/1wRKZuqTdCYLMHUlQ3_WN6d2lpEjAVFFj1cdaygyvR4Y/edit?usp=sharing "Prototipo Alta Fidelidad")
 
 ## TESTING
 
