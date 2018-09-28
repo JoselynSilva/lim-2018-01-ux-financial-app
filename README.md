@@ -157,12 +157,13 @@ Para la iteracion en la app, se planteó lo siguiente:
 * Los detalles de uso de la app son mas descriptivas e intuitivas.
 * Se realizó una nueva guía de estilo.
 * Se realizó un cambio en el logo de la aplicación que fuese mas explicativo y no confundiese a los usuarios con la aplicación que ya existe del banco.
+* Se creó una nueva [Landing Page](http://apptusfinanzaspage.pagedemo.co "Landing Page") con las caracteristicas de la app para Android.
 * Se agregó la opción de cerrar sesión por seguridad para el usuario.
 * Se agregó el menu hamburguesa en todas las pantallas.
 
 #### Presupuesto Marketing
 
-* El presupuesto de la publicidad en Facebook ADS, no se aumentará, ya que la tasa de visualización es alta y para ello proponemos presentar las mejoras de la aplicación para el público que le dieron Me gusta al fan page del Banco, así esto se incrementara de manera exponencial.
+* Ya no se debería invertir más publicidad en Facebook ADS, ya que la tasa de visualización es alta y para ello proponemos presentar las mejoras de la aplicación para el público que le dieron Me gusta al fan page del Banco, así esto se incrementara de manera exponencial.
 * Se complementaría la campaña de Marketing con emails a los clientes del banco, informandoles el re-lanzamiento de la aplicacion a la que podrán acceder, dirigiéndolos hacia el landing page.
 
 ## OTRAS CONSIDERACIONES
