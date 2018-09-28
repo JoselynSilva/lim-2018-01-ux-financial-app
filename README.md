@@ -60,22 +60,6 @@ El Product Manager nos proporcionó data con estadísticas del tráfico de su AP
 
 ![Funnel](https://user-images.githubusercontent.com/34355830/46122959-5bfe6080-c1e1-11e8-9793-393a966d0fb7.png)
 
-## RECOMENDACIONES
-
-* **Modificaciones a realizar**
-
-Segun el análisis de los datos obtenidos, propusimos las siguientes mejoras:
-
-* Diseñar la aplicación para Android, ya que la mayoría de usuarios visitan el landing page desde ese sistema operativo.
-* Continuar con la campaña de Facebook ADS presentando las mejoras de la aplicación para el público segmentado que le dieron Me gusta al fan page del Banco pero sin aumentar el presupuesto.
-* Rediseñar la Landing page,presentando los detalles y uso de la app, considerando la instalación para los sistemas operativos habilitados.
-* Se incluyó la opción de solicitar clave de internet ya que al estar habilitada para S.O Android, no todos los usuarios cuentan con la opción de huella digital.
-
-* **Próximos Desarrollo**
-
-* **Inversión presupuesto de Marketing**
-
-
 ### Benchmark
 
 Se realizó un estudio de las aplicaciones bancarias (páginas o app directas de los bancos analizamos que la propuesta que tienen los bancos radica en que los clientes puedan ver sus ingresos, transacciones y últimos movimientos, algunas de éstas aplicaciones presentan un sistema de notificacion en el momento que se realizan depósitos a las cuentas.
@@ -155,9 +139,32 @@ Para ver el sketch completo, ingresa al siguiente link:
 
 [Prototipo de Alta Fidelidad](https://docs.google.com/spreadsheets/d/1wRKZuqTdCYLMHUlQ3_WN6d2lpEjAVFFj1cdaygyvR4Y/edit?usp=sharing "Prototipo Alta Fidelidad")
 
-## TESTING
 
-### Conclusiones del Testing
+## RECOMENDACIONES
+
+* **Modificaciones a realizar**
+
+Segun el análisis de los datos obtenidos, propusimos las siguientes mejoras:
+
+* Diseñar la aplicación para Android, ya que la mayoría de usuarios visitan el landing page desde ese sistema operativo.
+* Se incluyó la opción de solicitar clave de internet ya que al estar habilitada para S.O Android, no todos los usuarios cuentan con la opción de huella digital.
+* Rediseñar la Landing page,presentando los detalles y uso de la app, considerando la instalación para los sistemas operativos habilitados.
+
+* **Diseño**
+
+Para la iteracion en la app, se planteó lo siguiente:
+
+* La comparación del incremento de los nuevos usuarios.
+* Los detalles de uso de la app son mas descriptivas e intuitivas.
+* Se realizó una nueva guía de estilo.
+* Se realizó un cambio en el logo de la aplicación que fuese mas explicativo y no confundiese a los usuarios con la aplicación que ya existe del banco.
+* Se agregó la opción de cerrar sesión por seguridad para el usuario.
+* Se agregó el menu hamburguesa en todas las pantallas.
+
+* **Inversión presupuesto de Marketing**
+* El presupuesto de la publicidad en Facebook ADS, no se aumentará, ya que la tasa de visualización es alta y para ello proponemos presentar las mejoras de la aplicación para el público que le dieron Me gusta al fan page del Banco, así esto se incrementara de manera exponencial.
+* Se complementaría la campaña de Marketing con emails a los clientes del banco, informandoles el re-lanzamiento de la aplicacion a la que podrán acceder, dirigiéndolos hacia el landing page.
+
 
 ## OTRAS CONSIDERACIONES
 
