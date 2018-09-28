@@ -60,6 +60,22 @@ El Product Manager nos proporcionó data con estadísticas del tráfico de su AP
 
 ![Funnel](https://user-images.githubusercontent.com/34355830/46122959-5bfe6080-c1e1-11e8-9793-393a966d0fb7.png)
 
+## RECOMENDACIONES
+
+* **Modificaciones a realizar**
+
+Segun el análisis de los datos obtenidos, propusimos las siguientes mejoras:
+
+* Diseñar la aplicación para Android, ya que la mayoría de usuarios visitan el landing page desde ese sistema operativo.
+* Continuar con la campaña de Facebook ADS presentando las mejoras de la aplicación para el público segmentado que le dieron Me gusta al fan page del Banco pero sin aumentar el presupuesto.
+* Rediseñar la Landing page,presentando los detalles y uso de la app, considerando la instalación para los sistemas operativos habilitados.
+* Se incluyó la opción de solicitar clave de internet ya que al estar habilitada para S.O Android, no todos los usuarios cuentan con la opción de huella digital.
+
+* **Próximos Desarrollo**
+
+* **Inversión presupuesto de Marketing**
+
+
 ### Benchmark
 
 Se realizó un estudio de las aplicaciones bancarias (páginas o app directas de los bancos analizamos que la propuesta que tienen los bancos radica en que los clientes puedan ver sus ingresos, transacciones y últimos movimientos, algunas de éstas aplicaciones presentan un sistema de notificacion en el momento que se realizan depósitos a las cuentas.
@@ -142,14 +158,6 @@ Para ver el sketch completo, ingresa al siguiente link:
 ## TESTING
 
 ### Conclusiones del Testing
-
-## RECOMENDACIONES
-
-* **Modificaciones a realizar**
-
-* **Próximos Desarrollo**
-
-* **Inversión presupuesto de Marketing**
 
 ## OTRAS CONSIDERACIONES
 
