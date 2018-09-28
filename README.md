@@ -93,7 +93,7 @@ Para esta investigación entrevistaremos a 5 usuarios. A través de una guía de
 
 ## SÍNTESIS Y DEFINICION
 
-## Sintesís
+### Sintesís
 
 * **Objetivo Principal**
 
@@ -139,10 +139,9 @@ Para ver el sketch completo, ingresa al siguiente link:
 
 [Prototipo de Alta Fidelidad](https://docs.google.com/spreadsheets/d/1wRKZuqTdCYLMHUlQ3_WN6d2lpEjAVFFj1cdaygyvR4Y/edit?usp=sharing "Prototipo Alta Fidelidad")
 
+### RECOMENDACIONES
 
-## RECOMENDACIONES
-
-* **Modificaciones a realizar**
+#### Modificaciones
 
 Segun el análisis de los datos obtenidos, propusimos las siguientes mejoras:
 
@@ -150,7 +149,7 @@ Segun el análisis de los datos obtenidos, propusimos las siguientes mejoras:
 * Se incluyó la opción de solicitar clave de internet ya que al estar habilitada para S.O Android, no todos los usuarios cuentan con la opción de huella digital.
 * Rediseñar la Landing page,presentando los detalles y uso de la app, considerando la instalación para los sistemas operativos habilitados.
 
-* **Diseño**
+#### Diseño
 
 Para la iteracion en la app, se planteó lo siguiente:
 
@@ -161,10 +160,10 @@ Para la iteracion en la app, se planteó lo siguiente:
 * Se agregó la opción de cerrar sesión por seguridad para el usuario.
 * Se agregó el menu hamburguesa en todas las pantallas.
 
-* **Inversión presupuesto de Marketing**
+#### Presupuesto Marketing
+
 * El presupuesto de la publicidad en Facebook ADS, no se aumentará, ya que la tasa de visualización es alta y para ello proponemos presentar las mejoras de la aplicación para el público que le dieron Me gusta al fan page del Banco, así esto se incrementara de manera exponencial.
 * Se complementaría la campaña de Marketing con emails a los clientes del banco, informandoles el re-lanzamiento de la aplicacion a la que podrán acceder, dirigiéndolos hacia el landing page.
-
 
 ## OTRAS CONSIDERACIONES
 
