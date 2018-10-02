@@ -137,7 +137,7 @@ Para ver el sketch completo, ingresa al siguiente link:
 
 ### Prototipo Alta Fidelidad
 
-[Prototipo de Alta Fidelidad](https://docs.google.com/spreadsheets/d/1wRKZuqTdCYLMHUlQ3_WN6d2lpEjAVFFj1cdaygyvR4Y/edit?usp=sharing "Prototipo Alta Fidelidad")
+[Prototipo de Alta Fidelidad](https://marvelapp.com/eib3659/screen/48407648 "Prototipo Alta Fidelidad")
 
 ### RECOMENDACIONES
 
@@ -163,8 +163,8 @@ Para la iteracion en la app, se planteó lo siguiente:
 
 #### Presupuesto Marketing
 
-* Ya no se debería invertir más publicidad en Facebook ADS, ya que la tasa de visualización es alta y para ello proponemos presentar las mejoras de la aplicación para el público que le dieron Me gusta al fan page del Banco, así esto se incrementara de manera exponencial.
-* Se complementaría la campaña de Marketing con emails a los clientes del banco, informandoles el re-lanzamiento de la aplicacion a la que podrán acceder, dirigiéndolos hacia el landing page.
+* Realizar una campaña de remarketing en Facebook ADS, ya que la tasa de visualización es alta y para ello proponemos presentar las mejoras de la aplicación segmentando a las personas que visitaron la landing page al menos una vez desde dispositivos Android, así esto se incrementará de manera exponencial.
+* Realizar la campaña de Marketing con emails a los clientes del banco, informandoles el re-lanzamiento de la aplicacion a la que podrán acceder, dirigiéndolos hacia el landing page.
 
 ## OTRAS CONSIDERACIONES
 
