@@ -2,7 +2,7 @@
 
 Proyecto realizado por UX LAB.
 
-# TABLA DE CONTENIDO
+**TABLA DE CONTENIDO**
 
 1. Objetivos iniciales del proyecto.
 2. Problemas a nivel de negocio y usuario.
