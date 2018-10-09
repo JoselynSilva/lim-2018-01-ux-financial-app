@@ -18,8 +18,8 @@ Proyecto realizado por UX LAB.
 5. Chatbox
 6. Zeplin
 7. Medium
-8. Google Drive
-9. Video
+8. Video
+9. Google Drive
 
 ***
 
@@ -136,7 +136,7 @@ Con respecto al presupuesto de marketing, se propone lo siguiente:
 
 ### **Sketch**
 
-[Prototipo en Sketch](https://docs.google.com/spreadsheets/d/1wRKZuqTdCYLMHUlQ3_WN6d2lpEjAVFFj1cdaygyvR4Y/edit?usp=sharing "Sketch")
+[Prototipo en Sketch](https://drive.google.com/drive/folders/1UH6I5lgS31MfWvOzehh-CxOPjSI0_oR0?usp=sharing "Sketch")
 
 ### **Prototipo Alta Fidelidad MVP**
 
@@ -198,7 +198,13 @@ Es por eso que para ayudar y ser un diferenciador importante, se necesita crear 
 
 Post en [Medium](https://zpl.io/a8Nmw36 "Medium") contando el proceso de investigacion de la app Tus Finanzas.
 
-## 8. GOOGLE DRIVE
+## 8. VIDEOS
+***
+
+* La documentación y el demo de la aplicación realizado en [Loom](https://www.useloom.com/share/ac1237ee9822430f9d671965bd67ff3d "Loom")
+
+## 9. GOOGLE DRIVE
+***
 
 Toda la documentación de este proyecto se encuentra en
 [Google Drive](https://drive.google.com/open?id=1W6P2BFLqbShTRRhkJ_BELuzVr-O2C_-i "Google DRive")
