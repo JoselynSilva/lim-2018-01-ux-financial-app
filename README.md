@@ -72,6 +72,11 @@ Para comenzar, decidimos concretar una reunión con la product manager del banco
 * Para los usuarios, es confuso el hecho que el botón de descarga les dirija hacia un formulario en el que tenían que dejar sus datos para que luego le llegue un mensaje con redirección hacia la appstore.
 * El flujo de la app es confuso para los usuarios, ya que se perdían al momento de elegir las opciones del menú.
 
+___Insights___
+* Viajar es la actividad que estimula a más usuarios para ahorrar.
+* Los usuarios no siempre tienen clara y definida una meta concreta de ahorro.
+* Los usuarios desean tener siempre al alcance y visible los detalles de sus gastos, para así poder saber en qué se están excediendo y qué pueden ahorrar.
+
 **C) Análisis de la Data**
 
 El Product Manager nos proporcionó data con estadísticas del tráfico de su APP, obteniendo las siguientes observaciones:
