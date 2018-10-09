@@ -38,7 +38,6 @@ Con los datos y recursos dados por el Product Manager, el proceso de rediseño q
 ![proceso-01](https://user-images.githubusercontent.com/34355830/46644533-41fc4080-cb46-11e8-9308-a0fec723147f.png)
 
 ## 1. OBJETIVOS INICIALES DEL PROYECTO
-***
 
 Nuestros objetivos son:
 
@@ -49,7 +48,6 @@ Nuestros objetivos son:
  * Realizar la propuesta de rediseño de la aplicación.
 
 ## 2. PROBLEMAS A NIVEL DE NEGOCIO Y USUARIO
- ***
 
 ### **Entendimiento del Problema**
 
@@ -94,7 +92,6 @@ El Product Manager nos proporcionó data con estadísticas del tráfico de su AP
 ![Funnel](https://user-images.githubusercontent.com/34355830/46122959-5bfe6080-c1e1-11e8-9793-393a966d0fb7.png)
 
 ## 3. RECOMENDACIONES
-***
 
 ### **Modificaciones a realizar**
 
@@ -128,7 +125,6 @@ Con respecto al presupuesto de marketing, se propone lo siguiente:
 * **Invertir en SEO (Search Engine Optimization)** para aparecer primero en el ranking de Google, sin hacer publicidad. Mejorar la configuración del sitio, colocar contenidos que detallen la app y cómo se distingue entre otra aplicaciones.
 
 ## 4. PROTOTIPOS
- ***
 
 ### **Landing Page**
 
@@ -160,7 +156,6 @@ Con respecto al presupuesto de marketing, se propone lo siguiente:
 
 
 ## 5. CHATBOX
-***
 
 ### **Beneficios**
 
@@ -187,24 +182,20 @@ Es por eso que para ayudar y ser un diferenciador importante, se necesita crear 
 
 
 ## 6. ZEPLIN
-***
 
 [Zeplin para desarrolladores](https://zpl.io/a8Nmw36 "Zeplin")
 
 ![zeplin](https://user-images.githubusercontent.com/34355830/46651966-4dac2f00-cb67-11e8-8393-d4c24b5c069f.jpg)
 
 ## 7. MEDIUM
-***
 
 Post en [Medium](https://zpl.io/a8Nmw36 "Medium") contando el proceso de investigacion de la app Tus Finanzas.
 
 ## 8. VIDEOS
-***
 
 * La documentación y el demo de la aplicación realizado en [Loom](https://www.useloom.com/share/ac1237ee9822430f9d671965bd67ff3d "Loom")
 
 ## 9. GOOGLE DRIVE
-***
 
 Toda la documentación de este proyecto se encuentra en
 [Google Drive](https://drive.google.com/open?id=1W6P2BFLqbShTRRhkJ_BELuzVr-O2C_-i "Google DRive")
