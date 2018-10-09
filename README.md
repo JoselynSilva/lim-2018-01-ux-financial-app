@@ -189,7 +189,7 @@ Es por eso que para ayudar y ser un diferenciador importante, se necesita crear 
 
 ## 7. MEDIUM
 
-Post en [Medium](https://zpl.io/a8Nmw36 "Medium") contando el proceso de investigacion de la app Tus Finanzas.
+Post en [Medium](https://medium.com/@estefaniatelis/tus-finanzas-proceso-de-redise%C3%B1o-ux-18ff80bf3d15 "Medium") contando el proceso de investigacion de la app Tus Finanzas.
 
 ## 8. VIDEOS
 
