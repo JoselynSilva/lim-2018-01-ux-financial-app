@@ -61,7 +61,7 @@ Para comenzar, decidimos concretar una reunión con la product manager del banco
 
 * La aplicación solo esta segmentada para un público objetivo que tienen dispositivos iOS.
 * No está claro que es una app de ahorro perteneciente al banco.
-* Facebook ADS no ofrece mucha información sobr la app o el S.O y la inversión por este medio no está dando resultados.
+* El diseño de los Facebook ADS no ofrece mucha información sobre la app o el S.O y la inversión por este medio no está dando resultados.
 * Se pierden muchos usuarios por medio del Landing Page ya que no ofrece mucha información de la aplicación.
 
 **B) Problemas Nivel Usuario**
