@@ -25,7 +25,7 @@ Proyecto realizado por UX LAB.
 
 ## INTRODUCCIÓN
 
-El banco más importante del país lanzo una nueva aplicación móvil al mercado. Esta permite a los usuarios visualizar sus gastos mensuales y ahorros, pero a pesar de la transformación digital que han vivido, su público más joven se está alejando de su uso. Luego del periodo de 6 meses y no 100 % contentos con el resultado, contactaron a nuestro equipo de UX LAB para que los ayudemos a definir la dirección y evolución de este producto.
+El banco más importante del Perú nos ha encargado hacer un rediseño de su aplicación ‘Tus finanzas’, un MVP desarrollado como app para iOS (adicional a la app nativa del banco) que busca promover el ahorro en sus usuarios, incentivándolos a crear nuevas metas de ahorro a futuro.
 
 * **MVP IOS**
 ![MVP IOS](https://lh3.googleusercontent.com/WyfUPurRuoXyyeZScQtdLhk063ZozToVlujoljul3TDwJW5KZy3Om_LvuB-TB9IcG2r_BCSpoXtXL-bZjIeGBFxQmL4GYEM2QXnQovq6EvixYaO_Z5-gFMvljM9jye7bVofendMteBI)
@@ -33,19 +33,18 @@ El banco más importante del país lanzo una nueva aplicación móvil al mercado
 * **LANDING PAGE**
 ![LP](https://user-images.githubusercontent.com/34355830/46640889-2be58480-cb34-11e8-8f13-8bf6b885e4b2.jpg)
 
-Con los datos y recursos dados por el Product Manager, el proceso de rediseño que tendrá la aplicacion será el siguiente:
+Según el Global Findex Report 2017, sólo el 43% de los peruanos mayores de 15 años tiene una cuenta bancaria, es decir, unas 10.9 millones de personas; un 34% ha hecho pagos digitales y apenas un 8% ha utilizado una entidad financiera para ahorrar.
+
+Para iniciar, un overview de nuestro trabajo:
 * **REDISEÑO UX**
-![proceso-01](https://user-images.githubusercontent.com/34355830/46644533-41fc4080-cb46-11e8-9308-a0fec723147f.png)
+![proceso-01](https://user-images.githubusercontent.com/38727384/48632721-a2756d80-e98f-11e8-9cce-d8c25f9ad7f8.jpg)
 
 ## 1. OBJETIVOS INICIALES DEL PROYECTO
 
-Nuestros objetivos son:
-
  * Definir la dirección y evolución del producto.
  * Validar los usuarios actuales.
- * Analizar la efectividad de la publicidad.
- * Mejorar el flujo del usuario.
- * Realizar la propuesta de rediseño de la aplicación.
+ * Analizar la efectividad de la publicidad en Facebook y la landing page asociada.
+ * Optimizar el flujo de los usuarios.
 
 ## 2. PROBLEMAS A NIVEL DE NEGOCIO Y USUARIO
 
@@ -75,21 +74,35 @@ ___Insights___
 * Los usuarios no siempre tienen clara y definida una meta concreta de ahorro.
 * Los usuarios desean tener siempre al alcance y visible los detalles de sus gastos, para así poder saber en qué se están excediendo y qué pueden ahorrar.
 
+![Insights](https://user-images.githubusercontent.com/38727384/48633591-a86c4e00-e991-11e8-91df-0e5e33f10891.jpeg)
+
 **C) Análisis de la Data**
 
-El Product Manager nos proporcionó data con estadísticas del tráfico de su APP, obteniendo las siguientes observaciones:
+Lo primero que hicimos como UX Designers en nuestra fase de descubrimiento fue analizar la data que nos ofreció el banco tras 6 meses de uso de su MVP, y que, además, contaba con una landing page y una campaña activa de Facebook ADS. Así como un testing de guerrilla con 5 usuarios.
 
-* Solo un promedio de **2,39%** de las impresiones en Facebook se dirigen al **Landing Page**.
-* No hay **relación efectiva (incremento)** entre el aumento de impresiones y la cantidad de visitas a la LP.
-* Aún cuando aumentan las visitas a la LP **no hay aumento proporcional de visitas a la APP Store** en el tiempo.
-* Sólo un **11%** en promedio de quienes visitan la App Store, **instalan la app**.
-* Hay un **leve incremento en el último trimestre** , que no parece significativo.
-* De los usuarios que descargan la aplicación, sólo un **10%** en promedio **se registra**, aún cuando las impresiones aumentan.
-* Aún cuando hay varios picos de impresiones, **no existe un aumento proporcional de descargas en la app store**.
+En su funnel de conversiones encontramos que:
+
+* Apenas un promedio de 2,39% de las impresiones en Facebook se dirigen al Landing Page.
+
+* No hay relación efectiva (incremento) entre el aumento de impresiones y la cantidad de visitas a la LP.
+
+* Aún cuando aumentan las visitas a la LP no hay aumento proporcional de visitas a la APP Store en el tiempo.
+
+* Sólo un 11% en promedio de quienes visitan la App Store, instalan la app.
+
+* Hay un leve incremento en el último trimestre , que no parece significativo.
+
+* De los usuarios que descargan la aplicación, sólo un 10% en promedio se registra, aún cuando las impresiones aumentan.
+
+* Aún cuando hay varios picos de impresiones, no existe un aumento proporcional de descargas en la app store.
+
+* Sólo un 0,003% de los usuarios que veían la publicidad en Facebook se registraban en el app
+
+* Otros datos interesantes que resumimos en el siguiente gráfico:
 
 [Análisis de la Data](https://docs.google.com/presentation/d/1MCNlTuj8TwLwS0Shw5MFGcZOVUkLvY9DOv_7WAHkPsM/edit?usp=sharing "Data")
 
-![Funnel](https://user-images.githubusercontent.com/34355830/46122959-5bfe6080-c1e1-11e8-9793-393a966d0fb7.png)
+![Funnel](https://user-images.githubusercontent.com/38727384/48633393-385dc800-e991-11e8-9212-5268453a2f12.jpeg)
 
 ## 3. RECOMENDACIONES
 
