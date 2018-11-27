@@ -165,7 +165,7 @@ Con respecto al presupuesto de marketing, se propone lo siguiente:
 
 * En la pantalla de gastos no logran diferenciarlo de la pantalla de movimientos ya que no encuentran ningún gráfico que los motive a observar sus gastos, aparte que lo ven innecesario ya que la misma información lo da movimientos.
 
-![Prototipo](https://user-images.githubusercontent.com/34355830/46649720-ae376e00-cb5f-11e8-8697-ab989e95be56.png)
+![Prototipo](https://user-images.githubusercontent.com/38727384/48636770-d190dc80-e999-11e8-8775-4029ceb5bb4f.jpg)
 
 
 ## 5. CHATBOX
@@ -211,4 +211,4 @@ Post en [Medium](https://medium.com/@estefaniatelis/tus-finanzas-proceso-de-redi
 ## 9. GOOGLE DRIVE
 
 Toda la documentación de este proyecto se encuentra en
-[Google Drive](https://drive.google.com/open?id=1W6P2BFLqbShTRRhkJ_BELuzVr-O2C_-i "Google DRive")
+[Google Drive](https://drive.google.com/open?id=1W6P2BFLqbShTRRhkJ_BELuzVr-O2C_-i "Google Drive")
